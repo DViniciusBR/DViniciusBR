@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo ao meu perfil Github!
- 👨‍💻     Técnico em desenvolvimento de sistemas<br>
+ 👨‍💻 Técnico em desenvolvimento de sistemas<br>
  ![image](https://user-images.githubusercontent.com/100954130/204041729-11eec0e2-2bcf-40ee-8f52-61bd7c4088d5.png)
 Padawan da tecnologia e ambientes de desenvolvimento de softwares
 <div align="center">
