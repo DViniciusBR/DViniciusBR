@@ -1,9 +1,9 @@
-## Olá, seja bem-vindo ao meu perfil Github! Me chamo Davi Vinícius 😁
+## Olá, bem-vindo ao meu perfil Github! Eu sou Davi, Téc. em Desenvolvimento de sistemas 💻
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dviniciusbr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dviniciusbr&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dviniciusbr&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ##
